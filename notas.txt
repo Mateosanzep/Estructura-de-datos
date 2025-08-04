@@ -1,2 +1,5 @@
-chmod +777 Anaconda3-2025.06-0-Linux-x86_64.sh 
-mkdir mateosan
+clase 1: 4 de agosto
+se necesita descargar anaconda:
+chmod +777 Anaconda3-2025.06-0-Linux-x86_64.sh - convertir a executable
+mkdir mateosan - hacer una carpeta
+cat - ver contenido
