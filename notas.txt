@@ -3,3 +3,17 @@ se necesita descargar anaconda:
 chmod +777 Anaconda3-2025.06-0-Linux-x86_64.sh - convertir a executable
 mkdir mateosan - hacer una carpeta
 cat - ver contenido
+jupyter lab - abrir el editor de texto
+
+clase 2: 6 de agosto
+Complejidad: constante y lineal
+
+constante - no importa el tipo, el tiempo siempre es el mismo
+lineal - depende del tamaño, cambia el tiempo
+
+notacion de complejidad:
+notacion "O" may (Big O)
+algoritmo de gauss - O(3) ---> las constantes se ignoran O(1)
+suma con ciclo - O(2n) ------> Las constantes se ignoran O(n)
+
+acceso aleatorio (accede a un valor en un arreglo) --> O(1)
