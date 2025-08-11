@@ -17,3 +17,10 @@ algoritmo de gauss - O(3) ---> las constantes se ignoran O(1)
 suma con ciclo - O(2n) ------> Las constantes se ignoran O(n)
 
 acceso aleatorio (accede a un valor en un arreglo) --> O(1)
+
+clase 3: 11 de agosto
+arreglos:
+
+si un arrego en pyton llega a su capacidad maxima en memoria y le quieres añadir otro, lo que hace es que aparta en otro lugar de la memoria el doble de su capacidad para tener tamaño de sobra y no haga tantas oeraciones.
+
+si le quitas y llegas a menos de la mitad, lo que hace es quita espacios hasta que se quede a 3/4 de capacidad, osea quita la midad de la mitad de los vacios
